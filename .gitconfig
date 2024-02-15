@@ -1,0 +1,27 @@
+[user]
+	name = Shouichi Kamiya
+	email = shouichi.kamiya@gmail.com
+[core]
+	pager = less -FXR -x8
+	whitespace = trailing-space,space-before-tab
+	editor = nvim
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = auto
+[push]
+	default = tracking
+[apply]
+	whitespace = error-all
+[branch]
+	autosetuprebase = always
+[pull]
+	rebase = true
+[grep]
+	lineNumber = true
+[status]
+	showUntrackedFiles = all
+[fetch]
+	prune = true
