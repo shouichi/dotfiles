@@ -13,6 +13,7 @@
 	ui = auto
 [push]
 	default = tracking
+	autoSetupRemote = true
 [apply]
 	whitespace = error-all
 [branch]
