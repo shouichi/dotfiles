@@ -18,3 +18,5 @@ zstyle ":completion:*" list-colors ${(s.:.)LS_COLORS}
 
 # shift-tab to complete backward
 bindkey "^[[Z" reverse-menu-complete
+
+zinit light zsh-users/zsh-autosuggestions
