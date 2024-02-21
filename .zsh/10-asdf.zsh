@@ -8,3 +8,11 @@ zinit light asdf-vm/asdf
 # asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
 # asdf install nodejs 20.9.0
 # asdf global nodejs 20.9.0
+
+# asdf plugin add terraform https://github.com/asdf-community/asdf-hashicorp.git
+# asdf install terraform latest
+# asdf global terraform latest
+
+# asdf plugin add golang https://github.com/asdf-community/asdf-golang.git
+# asdf install golang latest
+# asdf global golang latest
