@@ -1,1 +1,1 @@
-export WORDCHARS="*?[]~&;!#$%^(){}<>"
+export WORDCHARS="*?[]~&;!$%^(){}<>"
