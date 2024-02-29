@@ -15,3 +15,11 @@ vim.opt.inccommand = "split"
 
 -- case-insensitive auto-complete
 vim.opt.ignorecase = true
+
+-- use 2 spaces instead of tabs
+vim.opt.autoindent = true
+vim.opt.smartindent = true
+vim.opt.tabstop = 2
+vim.opt.expandtab = true
+vim.opt.softtabstop = 2
+vim.opt.shiftwidth = 2
