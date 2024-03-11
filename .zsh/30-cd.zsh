@@ -12,7 +12,7 @@ cdpath=($HOME $HOME/ghq/github.com)
 function _ghq_fzf_cd() {
      local repo=$(ghq list | fzf --reverse)
      local dir=$(ghq root)/$repo
-     [ -n $dir ] && cd $dir
+     [[ -n $repo ]] && cd $dir
      zle accept-line
      zle reset-prompt
 }
