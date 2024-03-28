@@ -26,3 +26,6 @@
 	showUntrackedFiles = all
 [fetch]
 	prune = true
+[alias]
+	ss = stash save
+	sp = stash pop
