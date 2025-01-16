@@ -6,8 +6,9 @@ return {
 
 			other.setup({
 				mappings = {
-					"rails",
+					"c",
 					"golang",
+					"rails",
 				},
 				rememberBuffers = false,
 			})
