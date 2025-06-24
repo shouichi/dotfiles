@@ -1,3 +1,3 @@
 if command -v go &> /dev/null; then
-  export PATH=$(go env GOPATH)/bin:$PATH
+  export PATH=$(go env GOBIN):$PATH
 fi
