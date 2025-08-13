@@ -5,6 +5,7 @@
 	pager = less -FXR -x8
 	whitespace = trailing-space,space-before-tab
 	editor = nvim
+	quotepath = false
 [color]
 	diff = auto
 	status = auto
