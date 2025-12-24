@@ -4,4 +4,4 @@ zinit light neovim/neovim
 alias v="nvim"
 alias vim="nvim"
 
-EDITOR="nvim"
+export EDITOR="nvim"
