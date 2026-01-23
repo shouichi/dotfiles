@@ -1,3 +1,6 @@
+autoload -Uz compinit
+compinit
+
 # insert the first match immediately
 setopt MENU_COMPLETE
 
