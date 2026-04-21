@@ -1,4 +1,4 @@
-zinit ice from"gh-r" as"program" mv"mise* -> mise"
+zinit ice from"gh-r" as"program" bpick"*linux-x64.tar.gz" pick"mise/bin/mise"
 zinit light jdx/mise
 
 zinit ice from"gh-r" as"program"
