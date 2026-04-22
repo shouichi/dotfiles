@@ -5,3 +5,4 @@ zinit ice from"gh-r" as"program"
 zinit light jdx/usage
 
 source <(mise completion zsh)
+eval "$(mise activate zsh)"
