@@ -1,0 +1,9 @@
+[settings]
+
+[settings.ruby]
+compile = false
+
+[tools]
+go = "1.26.2"
+node = "24.15.0"
+ruby = "3.3.7"
